@@ -246,4 +246,8 @@ The discrete data in the statistical data analysis is distributed under the disc
 
      ![alt text](https://image.slidesharecdn.com/dfdprofyedra-160313133606/95/diagrama-de-flujo-de-datos-dfd-16-638.jpg?cb=1457877018)
  
- 
+ TEAM: 
+ JUAN VALLE
+ ERICK MATOS
+ ANDRES RAMIREZ
+ CARLOS CAMARA
